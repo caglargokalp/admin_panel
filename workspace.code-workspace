@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/7-sezon-haftaici-html-css-admin-panali-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "admin panel"
+	}
+}
